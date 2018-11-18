@@ -8,6 +8,29 @@
 
         
           <item>
+            <title>v1.11.7</title>
+            <description><![CDATA[
+              <h3 id="fixed">Fixed</h3>
+<ul>
+  <li>Fixed issue where Radiant crashes without Accessibility permissions (<a href="https://github.com/radiant-player/radiant-player-mac/pull/676">#676</a>, <a href="https://github.com/xrubioj"><a href="https://github.com/xrubioj" class="user-mention">@xrubioj</a></a>)</li>
+</ul>
+
+<!-- SPARKLESIG2 MC0CFEAe7ZgHm9eu26yfql9CumUJjm1uAhUA1rlSDGJlQceDkc2n9wXQbZzmRJk= -->
+
+            ]]>
+            </description>
+            <pubDate>Sun, 18 Nov 2018 12:34:39 -0600</pubDate>
+            <enclosure
+                url="https://github.com/radiant-player/radiant-player-mac/releases/download/v1.11.7/radiant-player-v1.11.7.zip"
+                sparkle:version="1.11.7"
+                length="5838335"
+                type="application/octet-stream"
+                sparkle:dsaSignature="MC0CFEAe7ZgHm9eu26yfql9CumUJjm1uAhUA1rlSDGJlQceDkc2n9wXQbZzmRJk="
+            />
+            <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
+          </item>
+        
+          <item>
             <title>v1.11.6</title>
             <description><![CDATA[
               <h3 id="fixed">Fixed</h3>
